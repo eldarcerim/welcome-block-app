@@ -15,7 +15,7 @@ Projekat je objavljen pod licencom GPL-2.0-or-later. Centri, udruženja, ustanov
 1. Preuzmite instalacijski ZIP putem linka na vrhu ove stranice ili iz foldera `release`.
 2. U WordPressu otvorite **Dodaci → Dodaj novi → Prenesi dodatak**.
 3. Instalirajte i aktivirajte dodatak.
-4. Otvorite **MOST dobrodošlica**.
+4. Otvorite **Welcome Block**.
 5. Odaberite lijevu i desnu fotografiju te uredite bosanski i engleski tekst.
 6. Na bosansku stranicu dodajte:
 
